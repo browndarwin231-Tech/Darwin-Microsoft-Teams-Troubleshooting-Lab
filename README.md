@@ -45,7 +45,7 @@ Opened Microsoft Teams and verified the application launches successfully.
 
 ---
 
-## 2. Account Settings
+## 2. teams account Settings
 
 Verified the signed-in Microsoft account and account configuration.
 
@@ -53,7 +53,7 @@ Verified the signed-in Microsoft account and account configuration.
 
 ---
 
-## 3. Devices Settings
+## 3. Device Settings
 
 Reviewed microphone, speaker, and camera configuration.
 
