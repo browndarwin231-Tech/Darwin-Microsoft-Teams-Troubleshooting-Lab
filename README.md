@@ -49,7 +49,7 @@ Opened Microsoft Teams and verified the application launches successfully.
 
 Verified the signed-in Microsoft account and account configuration.
 
-![Account Settings](screenshots/02-account-settings.png)
+![Account Settings](screenshots/02-teams-account-settings.png)
 
 ---
 
@@ -57,7 +57,7 @@ Verified the signed-in Microsoft account and account configuration.
 
 Reviewed microphone, speaker, and camera configuration.
 
-![Devices Settings](screenshots/03-devices-settings.png)
+![Devices Settings](screenshots/03-device-settings.png)
 
 ---
 
@@ -97,7 +97,7 @@ Verified the sign-out and sign-in process.
 
 Completed the Microsoft Teams troubleshooting lab.
 
-![Project Complete](screenshots/08-project-complete.png)
+![Project Complete](screenshots/08-project-finish.png)
 
 ---
 
